@@ -1,1 +1,1 @@
-export const APIURL = "http://localhost:3001"
+export const APIURL = "https://website-booking-dummy.vercel.app/"
